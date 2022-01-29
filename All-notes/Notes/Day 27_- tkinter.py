@@ -133,6 +133,7 @@ canvas.create_
 """Changing values of a value in canvas"""
 canvas.itemconfig(the_item, "the thing you want to change like text=")
 
+# We can add pading to label, cam=nvas etc. in the grid, pack, pixel
 
 # To keep the window on Screen we use tkinter loop
 window.mainloop()
