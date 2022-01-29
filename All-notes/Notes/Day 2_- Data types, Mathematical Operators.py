@@ -22,6 +22,10 @@ name.strip()
 # Replacing a string with another
 name.replace("Sharma")
 
+# Split: It will divide a string into multiple strings  by specifying a sperator
+names = "Aryan,Vivek,Anushka,Ansh"
+a_name = names.split(",")
+
 # Mathematical Operators
 ()
 +
